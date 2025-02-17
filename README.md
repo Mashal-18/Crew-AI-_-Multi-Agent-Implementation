@@ -1,1 +1,2 @@
 # Crew-AI-_-Multi-Agent-Implementation
+This project uses CrewAI to automate blog creation from YouTube videos. A Researcher Agent extracts and translates video transcripts, while a Blog Writer Agent crafts structured blog posts. It supports multilingual translation and generates engaging content seamlessly. Simply provide a YouTube URL, and the system processes the transcript, translates it, and produces a blog-ready output. Future enhancements include better summarization, CMS integration, and SEO optimization. The project runs on CrewAI and GPT-4 for high-quality results.
